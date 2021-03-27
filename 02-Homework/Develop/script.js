@@ -11,7 +11,15 @@ let numArray = allNum.split('');
 let specialChar = " !\"#$%&'()*+,-./:;<=>?@[\\]^_`{|}~";
 let specialArray = specialChar.split('');
 
-let userArray = [];
+
+
+
+
+
+
+function generatePassword() {
+  
+  let userArray = [];
 
 let confirmUpper;
 let confirmLower;
@@ -20,12 +28,6 @@ let confirmSpecial;
 let newElement;
 let userLength;
 
-
-
-
-
-
-function generatePassword() {
   let password = ""
   function arrayLength() {
     userLength = prompt("Please enter desired length of password between 8 and 128");
