@@ -3,6 +3,11 @@
 
 This assignment is to modify starter code to create an application that enables employees to generate random passwords based on criteria that they’ve selected. The app is to run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code. 
 
+### Requirments 
+
+To set up, when the the generate button was clicked, a series of prompts are called to confirm the password criteria.  Then that criteria is used to generate the password.  Also the Password has to between 8 - 128 characters long. Once the criteria is selected the password is generated and displayed on the screen.
+
+
 
 ## Table of Contents
 
@@ -27,7 +32,7 @@ Once pulled over from gitHub onto your local machine.
 
 Here is a screenshot of the actual webpage.
  
- ![Screenshot](./Assets/HomePage.png)
+ ![Screenshot](Assets/webpage.png)
 <br>
 ## Credits
 https://bootcamp.unh.edu/ 
@@ -39,7 +44,7 @@ https://choosealicense.com/
 
 
 ## Website
-https://nance0719.github.io/WeekTwoWork/
+https://nance0719.github.io/WeekThreeWork/
 
 ## License
 MIT License
