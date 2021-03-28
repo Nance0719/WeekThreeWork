@@ -27,12 +27,17 @@ function generatePassword() {
 
   function arrayLength() {
     userLength = prompt("Please enter desired length of password between 8 and 128");
-    if (userLength < 8 || userLength > 128) {
+    if(userLength === "") {
+      exit();
+    }
+    else if (userLength < 8 || userLength > 128) {
       alert("Password has to be at least 8 and not more than 128");
       arrayLength();
     }
-    return userLength;
+    else {
+      return userLength;
     }
+  }
     
   arrayLength();
     
