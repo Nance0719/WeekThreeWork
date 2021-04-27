@@ -44,7 +44,7 @@ https://choosealicense.com/
 
 
 ## Website
-https://nance0719.github.io/WeekThreeWork/
+https://coreynance.github.io/WeekThreeWork/
 
 ## License
 MIT License
