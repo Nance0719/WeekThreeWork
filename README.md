@@ -44,7 +44,7 @@ https://choosealicense.com/
 
 
 ## Website
-https://coreynance.github.io/WeekThreeWork/
+https://coreynance.github.io/Password_Generator/
 
 ## License
 MIT License
